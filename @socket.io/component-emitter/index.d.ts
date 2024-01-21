@@ -7,7 +7,7 @@ export interface EventsMap {
 }
 
 /**
- * The default events map, used if no EventsMap is given. Using this EventsMap
+ * The default events map, used if no EventsMap is given. Using this EventsMap 
  * is equivalent to accepting all event names, and any data.
  */
 export interface DefaultEventsMap {
