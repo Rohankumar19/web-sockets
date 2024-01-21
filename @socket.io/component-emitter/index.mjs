@@ -8,7 +8,7 @@ export function Emitter(obj) {
   if (obj) return mixin(obj);
 }
 
-/**
+/** 
  * Mixin the emitter properties.
  *
  * @param {Object} obj
