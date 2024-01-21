@@ -2,7 +2,7 @@
 
   Event emitter component.
 
-## Installation
+## Installation 
 
 ```
 $ component install component/emitter
