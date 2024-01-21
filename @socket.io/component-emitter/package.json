@@ -11,7 +11,7 @@
     "scripts": {
       "emitter/index.js": "index.js"
     }
-  },
+  }, 
   "main": "index.js",
   "module": "index.mjs",
   "types": "index.d.ts",
