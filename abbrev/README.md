@@ -10,7 +10,7 @@ Usage:
     // returns:
     { fl: 'flop'
     , flo: 'flop'
-    , flop: 'flop'
+    , flop: 'flop' 
     , fol: 'folding'
     , fold: 'folding'
     , foldi: 'folding'
