@@ -7,7 +7,7 @@ exports.Emitter = Emitter;
 
 /**
  * Initialize a new `Emitter`.
- *
+ * 
  * @api public
  */
 
